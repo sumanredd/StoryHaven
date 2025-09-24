@@ -1,9 +1,9 @@
 {
-  "usableSessionsCount": 2,
+  "usableSessionsCount": 8,
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_frDTNx2f3g",
+      "id": "session_zAz8sbbZQM",
       "cookieJar": {
         "version": "tough-cookie@6.0.0",
         "storeType": "MemoryCookieStore",
@@ -16,14 +16,14 @@
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2025-09-24T14:07:58.071Z",
-      "createdAt": "2025-09-24T13:17:58.071Z",
+      "expiresAt": "2025-09-24T14:33:47.843Z",
+      "createdAt": "2025-09-24T13:43:47.843Z",
       "usageCount": 0,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_Ve98sMDhyI",
+      "id": "session_Ct8bbsx9VZ",
       "cookieJar": {
         "version": "tough-cookie@6.0.0",
         "storeType": "MemoryCookieStore",
@@ -35,201 +35,856 @@
           {
             "key": "localization",
             "value": "IN",
-            "expires": "2026-09-24T13:17:59.633Z",
+            "expires": "2026-09-24T13:43:50.090Z",
             "domain": "www.worldofbooks.com",
             "path": "/en-gb",
             "hostOnly": true,
-            "creation": "2025-09-24T13:18:04.456Z",
-            "lastAccessed": "2025-09-24T13:18:04.456Z"
+            "creation": "2025-09-24T13:43:55.879Z",
+            "lastAccessed": "2025-09-24T13:43:55.879Z"
           },
           {
             "key": "_shopify_y",
-            "value": "758302e6-0935-4a52-9ead-c681cd8e1236",
-            "expires": "2026-09-24T19:18:04.366Z",
+            "value": "a9664d37-f5ec-44c1-9a59-21cfe5472320",
+            "expires": "2026-09-24T19:43:55.627Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.457Z",
-            "lastAccessed": "2025-09-24T13:18:04.457Z"
+            "creation": "2025-09-24T13:43:55.879Z",
+            "lastAccessed": "2025-09-24T13:43:55.879Z"
           },
           {
             "key": "_tracking_consent",
-            "value": "3.AMPS_INTS_f_f_A*WsnmqCT-GPYgcXwEEAJw",
-            "expires": "2026-09-24T19:17:59.634Z",
+            "value": "3.AMPS_INTS_f_f_-ASsz3ljQg2tdok4GRrm0w",
+            "expires": "2026-09-24T19:43:50.092Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.462Z",
-            "lastAccessed": "2025-09-24T13:18:04.462Z"
+            "creation": "2025-09-24T13:43:55.887Z",
+            "lastAccessed": "2025-09-24T13:43:55.887Z"
           },
           {
             "key": "_orig_referrer",
-            "expires": "2025-10-08T13:17:59.634Z",
+            "expires": "2025-10-08T13:43:50.092Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.464Z",
-            "lastAccessed": "2025-09-24T13:18:04.464Z"
+            "creation": "2025-09-24T13:43:55.890Z",
+            "lastAccessed": "2025-09-24T13:43:55.890Z"
           },
           {
             "key": "_landing_page",
-            "value": "%2Fen-gb%2Fproducts%2Fharry-potter-and-the-order-of-the-phoenix-book-jk-rowling-9781408865439",
-            "expires": "2025-10-08T13:17:59.634Z",
+            "value": "%2Fen-gb%2Fproducts%2Fharry-potter-and-the-goblet-of-fire-book-jk-rowling-9781408855683",
+            "expires": "2025-10-08T13:43:50.092Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.464Z",
-            "lastAccessed": "2025-09-24T13:18:04.464Z"
+            "creation": "2025-09-24T13:43:55.890Z",
+            "lastAccessed": "2025-09-24T13:43:55.890Z"
           },
           {
             "key": "__eventn_id",
-            "value": "nxmhyuu910.1758719879",
-            "expires": "2026-10-29T13:17:59.834Z",
+            "value": "z5dffalaki.1758721430",
+            "expires": "2026-10-29T13:43:50.344Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.464Z",
-            "lastAccessed": "2025-09-24T13:18:04.464Z"
-          },
-          {
-            "key": "cart_currency",
-            "value": "USD",
-            "expires": "2025-10-25T13:18:04.366Z",
-            "domain": "www.worldofbooks.com",
-            "path": "/",
-            "hostOnly": true,
-            "creation": "2025-09-24T13:18:04.464Z",
-            "lastAccessed": "2025-09-24T13:18:04.464Z"
+            "creation": "2025-09-24T13:43:55.890Z",
+            "lastAccessed": "2025-09-24T13:43:55.890Z"
           },
           {
             "key": "_shopify_s",
-            "value": "e1456c5e-c498-459c-8e21-ada61cee1f0b",
-            "expires": "2025-09-24T13:48:04.366Z",
+            "value": "ed31a7bc-7ed0-4510-9a28-0ee9fdec0b07",
+            "expires": "2025-09-24T14:13:55.627Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.890Z",
+            "lastAccessed": "2025-09-24T13:43:55.890Z"
           },
           {
             "key": "keep_alive",
-            "value": "eyJ2IjoyLCJ0cyI6MTc1ODcxOTg4MjEzOSwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJrYmEiOjAsInRhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MSwicyI6MTc1ODcxOTg4MTkyNCwiZCI6MH19",
-            "expires": "2025-09-24T14:08:04.455Z",
+            "value": "eyJ2IjoyLCJ0cyI6MTc1ODcyMTQzMzEyOSwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJrYmEiOjAsInRhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MSwicyI6MTc1ODcyMTQzMjg5OCwiZCI6MH19",
+            "expires": "2025-09-24T14:33:55.876Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": true,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "swym-session-id",
-            "value": "\"rfn19v6dubeme370snq1k230leq4xco1rb3d2x3f2dp8tgx1l7qyyj8he6ycivb9\"",
-            "expires": "2025-09-24T13:48:04.000Z",
+            "value": "\"t6xc9ln6tp8mso378lpp5jai9ud3a35meacv5r54ojsrifbmhxfjmiexo920fn7y\"",
+            "expires": "2025-09-24T14:13:55.000Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "swym-pid",
             "value": "\"rTqgRVolwLgMEf6yEmnpwLNUailSACsmlQlC0eL5Bfw=\"",
-            "expires": "2026-09-24T13:18:02.000Z",
+            "expires": "2026-09-24T13:43:53.000Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
+          },
+          {
+            "key": "cart_currency",
+            "value": "USD",
+            "expires": "2025-10-08T13:43:55.627Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "OptanonConsent",
-            "value": "isGpcEnabled=0&datestamp=Wed+Sep+24+2025+18%3A48%3A02+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67bc42f2-8cd4-4c74-bb05-2408b04dc294&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.worldofbooks.com%2Fen-gb%2Fproducts%2Fharry-potter-and-the-order-of-the-phoenix-book-jk-rowling-9781408865439&groups=C0003%3A0%2CC0004%3A0%2CC0002%3A0%2CC0001%3A1",
-            "expires": "2026-09-24T13:18:02.000Z",
+            "value": "isGpcEnabled=0&datestamp=Wed+Sep+24+2025+19%3A13%3A54+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4ca128f2-ad1a-4290-a46f-57ee09453167&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.worldofbooks.com%2Fen-gb%2Fproducts%2Fharry-potter-and-the-goblet-of-fire-book-jk-rowling-9781408855683&groups=C0003%3A0%2CC0004%3A0%2CC0002%3A0%2CC0001%3A1",
+            "expires": "2026-09-24T13:43:54.000Z",
             "domain": "worldofbooks.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "swym-v-ckd",
             "value": "1",
-            "expires": "2025-09-24T13:48:03.000Z",
+            "expires": "2025-09-24T14:13:54.000Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "swym-swymRegid",
-            "value": "\"KFPY25ydZ_3EqExrjiY4V58L8HHZ1HsM2Ga2_lpNtpFKNk0rfN7lFkQuzPIUQuAOTEeVZu9RBXgb1RgrVRbOMK6B79PBhoTNljeOijFOijauR4SwOkDqZ8JvvvejFFOx4npqMiNDY9b6Alww_MqBIy2KqlS_JlK54XUL-rfp9hw\"",
-            "expires": "2026-09-24T13:18:04.000Z",
+            "value": "\"3zoZbTo5f5Al7lGkbllZyVn5QnVMZ3j5XgVoO5-Cfst-eAOnX7GEgKHGpR15-hJJL6XhcjzgZbr9pqAToF3usiJ1q4Mk15XbS6qIB3-al2rvbmMps2QFL5lmGdM43AFcz1irNcu1In9dRfhH4Cc69vt13CWBr7XZigtRxd4or9Q\"",
+            "expires": "2026-09-24T13:43:54.000Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "swym-email",
             "value": "null",
-            "expires": "2026-09-24T13:18:03.000Z",
+            "expires": "2026-09-24T13:43:54.000Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "swym-o_s",
-            "value": "{\"wishlist-app_app-embed_179506577681\":\"2025-09-24T13:18:03.484Z\"}",
-            "expires": "2025-09-24T13:48:03.000Z",
+            "value": "{\"wishlist-app_app-embed_179506577681\":\"2025-09-24T13:43:54.624Z\"}",
+            "expires": "2025-09-24T14:13:54.000Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "_shopify_essential",
-            "value": "%3AAZl736kBAAEAkcWWclj8Bias_hKrRSuxd_t3hJeYhHCreHP-Avi_qRuC0h9jkA8Djem5Zwi-JMb2oyokXirf_Tvj9udVTXn5Hr_xKb2XEwCxaU0UQyiu9yha8a9Eqg_ndCT4e0NIikk9LMEDyPRd9Ioijg6qr4kyoTVX2tFju5BHOs3CeGyvCp1aZ-e5NsE8VD9BFOFUEHTMugk6TP_2_FDxqSTQ8LIklWW5uNSlJo4Y2g7TZ6Mj0CJEhpKBBNBtEvK6wbUd7vT2og%3A",
-            "expires": "2025-09-24T14:08:04.455Z",
+            "value": "%3AAZl791FfAAEA7mxYjvJckKiUtow6NMm3Wk3zPuP_lxWNAeja6sCzA69X67RCOTqreWy8MVez8qur2-79Zta74gWFu-ZeYNG4RxMLithlAOYODCftgFOhJvdOaLkDG6EJQR_Ts7dOsBuC0VMiRfIFtZMUMWlZITFZQH-8xu11dViXZKdWGA6B0RL0WJ4gJStMjcyQ3Xu08sNrFlu250t1NAQyFspnSGwRCXqHd1YAb60qCWFVseLBqhx3RHzsgxb8Q-KRBLOxr-VSXLI%3A",
+            "expires": "2025-09-24T14:33:55.877Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": true,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           },
           {
             "key": "cart",
-            "value": "hWN3Lc31CvZX1TQPkovu4mdI%3Fkey%3Db6dbc55e4990433e84385d609273f173",
-            "expires": "2025-10-25T13:18:04.366Z",
+            "value": "hWN3LefRPO4XIlcGEC8Nkmsm%3Fkey%3Dbb27b5da608faf22245c0702e2491751",
+            "expires": "2025-10-25T13:43:55.477Z",
             "domain": "www.worldofbooks.com",
             "path": "/",
             "hostOnly": true,
-            "creation": "2025-09-24T13:18:04.465Z",
-            "lastAccessed": "2025-09-24T13:18:04.465Z"
+            "creation": "2025-09-24T13:43:55.892Z",
+            "lastAccessed": "2025-09-24T13:43:55.892Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2025-09-24T14:07:58.076Z",
-      "createdAt": "2025-09-24T13:17:58.076Z",
+      "expiresAt": "2025-09-24T14:33:47.850Z",
+      "createdAt": "2025-09-24T13:43:47.850Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_UnYd7fQAEe",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-24T14:34:02.274Z",
+      "createdAt": "2025-09-24T13:44:02.274Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_0ZIEm25pV1",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "localization",
+            "value": "IN",
+            "expires": "2026-09-24T13:44:03.667Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/en-gb",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "_shopify_y",
+            "value": "85a1c445-04f4-4926-b3a4-da0517097fd5",
+            "expires": "2026-09-24T19:44:06.329Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "_tracking_consent",
+            "value": "3.AMPS_INTS_f_f_dFH3DYQfRpGbunCGixy4cg",
+            "expires": "2026-09-24T19:44:03.668Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "_orig_referrer",
+            "expires": "2025-10-08T13:44:03.668Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "_landing_page",
+            "value": "%2Fen-gb%2Fproducts%2Fharry-potter-and-the-goblet-of-fire-book-jk-rowling-9781408855683",
+            "expires": "2025-10-08T13:44:03.668Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "__eventn_id",
+            "value": "rb555qfvfn.1758721443",
+            "expires": "2026-10-29T13:44:03.824Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "_shopify_s",
+            "value": "da274825-c28d-4958-9e2c-b57cfb085909",
+            "expires": "2025-09-24T14:14:06.329Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "keep_alive",
+            "value": "eyJ2IjoyLCJ0cyI6MTc1ODcyMTQ0NTg4MCwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJrYmEiOjAsInRhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MSwicyI6MTc1ODcyMTQ0NTcyOCwiZCI6MH19",
+            "expires": "2025-09-24T14:34:07.170Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "swym-session-id",
+            "value": "\"0jrxpic4jwv8kbx5oxnu5yot8m0nsnrmu936q2jx2kcov19kjz3prbp7jbcgtbv8\"",
+            "expires": "2025-09-24T14:14:06.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "swym-pid",
+            "value": "\"rTqgRVolwLgMEf6yEmnpwLNUailSACsmlQlC0eL5Bfw=\"",
+            "expires": "2026-09-24T13:44:06.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "cart_currency",
+            "value": "USD",
+            "expires": "2025-10-08T13:44:06.329Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "_shopify_essential",
+            "value": ":AZl794XkAAEAmxHypzJyGzyZUyRXI64M0wC2aUYo9QAr4Fr0s7wtWFPHu01TTtmNEuejv3RXNbykqrthd4OwCQWDVjTZ_4HnJZm6TDhDbkwFTXuiXOybeHjntsphRCB6wBn6uOyVfXU7bZaZmPqIosT2xHkun_S4o9hllkhImlRZMN3Z_4SKullvb-cdgVkGj7TqcKwcoYgeP8C3ECLCNKQCVdJ4l3c:",
+            "expires": "2026-09-24T13:44:06.339Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "OptanonConsent",
+            "value": "isGpcEnabled=0&datestamp=Wed+Sep+24+2025+19%3A14%3A06+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e11fa5a-d0ea-4d93-9b47-247029b6a3b2&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.worldofbooks.com%2Fen-gb%2Fproducts%2Fharry-potter-and-the-goblet-of-fire-book-jk-rowling-9781408855683&groups=C0003%3A0%2CC0004%3A0%2CC0002%3A0%2CC0001%3A1",
+            "expires": "2026-09-24T13:44:06.000Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "swym-v-ckd",
+            "value": "1",
+            "expires": "2025-09-24T14:14:07.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "swym-swymRegid",
+            "value": "\"hDez6fTeGg9wx0ua3kNKcmdN7M0SDrye-Vaq25P3xLJm9u7d6m-wy--D_XL6vmLKRa27PnPEy_uNaF9bACYVsiDj4ZqcLmfY7GNuW7RqtMK8EWknQ8VGq_4GiGVmOgYROpBedTNWlWXSFSWtQS2O0HcpjjWG2pXNo5k37BOvwYk\"",
+            "expires": "2026-09-24T13:44:07.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          },
+          {
+            "key": "swym-email",
+            "value": "null",
+            "expires": "2026-09-24T13:44:07.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:07.170Z",
+            "lastAccessed": "2025-09-24T13:44:07.170Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-24T14:34:02.275Z",
+      "createdAt": "2025-09-24T13:44:02.275Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_CLk1Pc8XVa",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-24T14:34:22.186Z",
+      "createdAt": "2025-09-24T13:44:22.186Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_bpavVe4uGH",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "localization",
+            "value": "IN",
+            "expires": "2026-09-24T13:44:23.610Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/en-gb",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "_shopify_y",
+            "value": "84e3a69d-a393-4760-8af0-22f1497f932f",
+            "expires": "2026-09-24T19:44:26.694Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "_tracking_consent",
+            "value": "3.AMPS_INTS_f_f_SKK8u42JTEuWB5tBGMRVDg",
+            "expires": "2026-09-24T19:44:23.611Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "_orig_referrer",
+            "expires": "2025-10-08T13:44:23.611Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "_landing_page",
+            "value": "%2Fen-gb%2Fproducts%2Forigami-15-paper-folding-projects-straight-from-the-wizarding-world-harry-potter-book-scholastic-9781338322965",
+            "expires": "2025-10-08T13:44:23.611Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "__eventn_id",
+            "value": "n6z2vpi5zr.1758721463",
+            "expires": "2026-10-29T13:44:23.800Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "_shopify_s",
+            "value": "86f344d5-a0ec-4a9a-8309-3a00328bc2b5",
+            "expires": "2025-09-24T14:14:26.694Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "keep_alive",
+            "value": "eyJ2IjoyLCJ0cyI6MTc1ODcyMTQ2NTkzMywiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJrYmEiOjAsInRhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MSwicyI6MTc1ODcyMTQ2NTcyOCwiZCI6MH19",
+            "expires": "2025-09-24T14:34:27.868Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "swym-session-id",
+            "value": "\"j40ycu66gnxu6ysf0mtlektoyq12hm41a91qany72vtrjzvck5vme6fxof49l7vc\"",
+            "expires": "2025-09-24T14:14:27.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "swym-pid",
+            "value": "\"rTqgRVolwLgMEf6yEmnpwLNUailSACsmlQlC0eL5Bfw=\"",
+            "expires": "2026-09-24T13:44:26.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "_shopify_essential",
+            "value": ":AZl799O6AAEAmuGUgWuGcsXVkjtDTmf1Vsa9qXVmzb4MDNM2JR04iwBsNVKmdDjOp7E0-thwy2m2oBkUf_syCA7HzK8wEXuFEWXA22mibli_EmzmMXUSQTy0OyiCEol2fwRS3EVclulh4lswyUd2d5no-1sAw6FITqOk_CQ_IYUURLVu7r2D5bfClIX-je1N9UOv2cqPcDosTOE9vCdv14jQCQmxJg:",
+            "expires": "2026-09-24T13:44:26.396Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "OptanonConsent",
+            "value": "isGpcEnabled=0&datestamp=Wed+Sep+24+2025+19%3A14%3A26+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b03e674-e199-4df0-b076-fa424cdcbd2b&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.worldofbooks.com%2Fen-gb%2Fproducts%2Forigami-15-paper-folding-projects-straight-from-the-wizarding-world-harry-potter-book-scholastic-9781338322965&groups=C0003%3A0%2CC0004%3A0%2CC0002%3A0%2CC0001%3A1",
+            "expires": "2026-09-24T13:44:26.000Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "cart_currency",
+            "value": "GBP",
+            "expires": "2025-10-08T13:44:26.694Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "swym-v-ckd",
+            "value": "1",
+            "expires": "2025-09-24T14:14:27.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "swym-swymRegid",
+            "value": "\"R_6mdoe0jgYmzfub91NZJhU6yLNH7qxhvcSiITbaD4cjxhcGxd5X-YHatRTCdHtxemEyjK2oEtnsVPGNNsEO2l4MpH3s0NA8E5nIW6qAMMfk8R10mM9m-H6TRKCOIQTObl33vz1WoZnwVCrvPz_03ptA0hY6XhxpzKa0t8TMoSw\"",
+            "expires": "2026-09-24T13:44:27.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "swym-email",
+            "value": "null",
+            "expires": "2026-09-24T13:44:27.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          },
+          {
+            "key": "swym-o_s",
+            "value": "{\"wishlist-app_app-embed_179506577681\":\"2025-09-24T13:44:27.181Z\"}",
+            "expires": "2025-09-24T14:14:27.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:27.868Z",
+            "lastAccessed": "2025-09-24T13:44:27.868Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-24T14:34:22.187Z",
+      "createdAt": "2025-09-24T13:44:22.187Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Olr2r5gXDj",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-24T14:34:31.484Z",
+      "createdAt": "2025-09-24T13:44:31.484Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_zfGG412zsh",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "localization",
+            "value": "IN",
+            "expires": "2026-09-24T13:44:32.793Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/en-gb",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:36.510Z",
+            "lastAccessed": "2025-09-24T13:44:36.510Z"
+          },
+          {
+            "key": "_shopify_y",
+            "value": "ea12ec70-42f2-497d-b938-7800d124595d",
+            "expires": "2026-09-24T19:44:35.754Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.510Z",
+            "lastAccessed": "2025-09-24T13:44:36.510Z"
+          },
+          {
+            "key": "_tracking_consent",
+            "value": "3.AMPS_INTS_f_f_5xtQw1T8Q0eIsgqfWnZSdg",
+            "expires": "2026-09-24T19:44:32.793Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.510Z",
+            "lastAccessed": "2025-09-24T13:44:36.510Z"
+          },
+          {
+            "key": "_orig_referrer",
+            "expires": "2025-10-08T13:44:32.793Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.510Z",
+            "lastAccessed": "2025-09-24T13:44:36.510Z"
+          },
+          {
+            "key": "_landing_page",
+            "value": "%2Fen-gb%2Fproducts%2Forigami-15-paper-folding-projects-straight-from-the-wizarding-world-harry-potter-book-scholastic-9781338322965",
+            "expires": "2025-10-08T13:44:32.793Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.510Z",
+            "lastAccessed": "2025-09-24T13:44:36.510Z"
+          },
+          {
+            "key": "__eventn_id",
+            "value": "jnkofvcd4i.1758721472",
+            "expires": "2026-10-29T13:44:32.937Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.510Z",
+            "lastAccessed": "2025-09-24T13:44:36.510Z"
+          },
+          {
+            "key": "_shopify_s",
+            "value": "5bbb858d-3d26-47ef-9c8d-e756ae8998d6",
+            "expires": "2025-09-24T14:14:35.754Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "keep_alive",
+            "value": "eyJ2IjoyLCJ0cyI6MTc1ODcyMTQ3NDk0MiwiZW52Ijp7IndkIjowLCJ1YSI6MSwiY3YiOjEsImJyIjoxfSwiYmh2Ijp7Im1hIjowLCJjYSI6MCwia2EiOjAsInNhIjowLCJrYmEiOjAsInRhIjowLCJ0IjowLCJubSI6MCwibXMiOjAsIm1qIjowLCJtc3AiOjAsInZjIjowLCJjcCI6MCwicmMiOjAsImtqIjowLCJraSI6MCwic3MiOjAsInNqIjowLCJzc20iOjAsInNwIjowLCJ0cyI6MCwidGoiOjAsInRwIjowLCJ0c20iOjB9LCJzZXMiOnsicCI6MSwicyI6MTc1ODcyMTQ3NDc1MSwiZCI6MH19",
+            "expires": "2025-09-24T14:34:36.510Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "swym-session-id",
+            "value": "\"79ih6x6bi8cv5kkry9jhvvem7hriy0dpa0jdv3o56dts4dwb3b33ejbb5epf1ncu\"",
+            "expires": "2025-09-24T14:14:36.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "swym-pid",
+            "value": "\"rTqgRVolwLgMEf6yEmnpwLNUailSACsmlQlC0eL5Bfw=\"",
+            "expires": "2026-09-24T13:44:35.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "_shopify_essential",
+            "value": ":AZl79_fLAAEAZGhE98gkOMLGrrKgDmfHV_vSHsj4KKxdLlmGNMe2Z1jfVq4Cp5AFKisgf4nYlDgx-GEHjScEYTJd2mTYHhm-pjWn-WTEE-oyMbhswjKv5DlWb97oLna4hgYVzYCZmFWqvlSdNCHqoCom4ghHuc5Cn38iwhCRcCVha5BPlxzwZAQPaC7nCzFqz_lnyHPLRSbSYHKJQ-x69Ndgv3hYuddKSiLaxvwkgw:",
+            "expires": "2026-09-24T13:44:35.431Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "OptanonConsent",
+            "value": "isGpcEnabled=0&datestamp=Wed+Sep+24+2025+19%3A14%3A35+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fcee0cb6-6eef-4773-9548-0b70af55b080&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.worldofbooks.com%2Fen-gb%2Fproducts%2Forigami-15-paper-folding-projects-straight-from-the-wizarding-world-harry-potter-book-scholastic-9781338322965&groups=C0003%3A0%2CC0004%3A0%2CC0002%3A0%2CC0001%3A1",
+            "expires": "2026-09-24T13:44:35.000Z",
+            "domain": "worldofbooks.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "cart_currency",
+            "value": "GBP",
+            "expires": "2025-10-08T13:44:35.754Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "swym-v-ckd",
+            "value": "1",
+            "expires": "2025-09-24T14:14:36.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "swym-swymRegid",
+            "value": "\"kPmPxMP4IGrhdxbPrI2TuMTCdor6zDp4_T23e7N9GHTs206FKkN9kuhSU_GpdUjWev0kFZeEpFXMq-8c3-qln4-jc2-ReW0uqKkzSTgDi0U_dVlj6M05I-jCjHbbTTM7LcWEQMsDc5GTFTSuCuMnYxBzGJKmyUm_t9ZKbdT-7-s\"",
+            "expires": "2026-09-24T13:44:36.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "swym-email",
+            "value": "null",
+            "expires": "2026-09-24T13:44:36.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          },
+          {
+            "key": "swym-o_s",
+            "value": "{\"wishlist-app_app-embed_179506577681\":\"2025-09-24T13:44:36.336Z\"}",
+            "expires": "2025-09-24T14:14:36.000Z",
+            "domain": "www.worldofbooks.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-24T13:44:36.511Z",
+            "lastAccessed": "2025-09-24T13:44:36.511Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-24T14:34:31.484Z",
+      "createdAt": "2025-09-24T13:44:31.484Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
