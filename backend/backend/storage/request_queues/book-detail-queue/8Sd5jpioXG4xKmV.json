@@ -1,0 +1,9 @@
+{
+	"id": "8Sd5jpioXG4xKmV",
+	"json": "{\"id\":\"8Sd5jpioXG4xKmV\",\"url\":\"https://www.worldofbooks.com/en-gb/products/naruto-vol-1-book-masashi-kishimoto-9781569319000\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/naruto-vol-1-book-masashi-kishimoto-9781569319000\",\"uniqueKey\":\"book-detail-1758549740118\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-22T14:02:59.428Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "book-detail-1758549740118",
+	"url": "https://www.worldofbooks.com/en-gb/products/naruto-vol-1-book-masashi-kishimoto-9781569319000"
+}

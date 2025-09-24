@@ -1,0 +1,65 @@
+.navBarContainer {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+}
+
+.logo {
+    font-size: 25px;
+    color: #0a9621;
+}
+
+.navItems {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.li {
+    position: relative;
+    cursor: pointer;
+    display: inline-block; /* underline fits text width */
+    color: #111827;
+    font-weight: 500;
+}
+
+.li a {
+    text-decoration: none;
+    color: inherit; /* use li text color */
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+.li::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px;        /* distance below text */
+    width: 100%;
+    height: 2px;
+    background:   #0a9621; /* underline uses text color */
+    transform: scaleX(0);     /* start hidden */
+    transform-origin: left;   /* grow from left */
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect */
+.li:hover::after {
+    transform: scaleX(1);
+}
+
+/* Active tab effect */
+.li.active {
+  color: #0a9621;
+    text-decoration: underline  #0a9621;;
+    font-weight: 600;
+}
+
+.li.active::after {
+    transform: scaleX(1); /* underline visible */
+}
+
+

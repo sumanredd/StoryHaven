@@ -1,0 +1,81 @@
+.recentBooksSection {
+  margin: 20px 0;
+}
+
+.sectionHeading {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #0a9621;
+  font-family: 'Playfair Display', serif;
+}
+
+.scrollContainerWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.scrollContainer {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  gap: 10px;
+  padding: 10px 0;
+}
+
+.scrollButton {
+  border-radius: 50%;
+  background: #a7aaa7;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 20px;
+  z-index: 5;
+}
+
+.recentBookCard {
+  width: 190px;              
+  flex-shrink: 0;             
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  cursor: pointer;      
+}
+
+.recentBookImage {
+  width: 100%;              
+  height: auto;
+  max-height: 230px;
+  object-fit: contain;        
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.recentBookTitle {
+ 
+  margin: 5px 0;
+  font-size: 0.9rem;
+  word-wrap: break-word;     
+}
+
+.recentBookAuthor {
+  color: #555;
+  font-size: 0.9rem;
+  margin-bottom: 5px;
+  word-wrap: break-word;  
+}
+
+.recentBookPrice {
+  font-weight: bold;
+  font-size: 20px;
+  color: #000;
+}
+
+.scrollButton { position: absolute; top: 50%; transform: translateY(-50%); background-color: rgba(0,0,0,0.3); color: #fff; border: none; border-radius: 50%; width: 40px; height: 40px; cursor: pointer; z-index: 10; font-size: 20px; display: flex; align-items: center; justify-content: center; }
+.scrollButton:hover { background-color: rgba(0,0,0,0.6); }
+.scrollButton.left { left: -20px; }
+.scrollButton.right { right: 2px; }

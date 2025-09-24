@@ -1,0 +1,9 @@
+{
+	"id": "MIqvi9Ewq7cJ539",
+	"json": "{\"id\":\"MIqvi9Ewq7cJ539\",\"url\":\"https://www.worldofbooks.com/en-gb/search?q=naruto\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/search?q=naruto\",\"uniqueKey\":\"category-1758549728042\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-09-22T14:02:15.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "category-1758549728042",
+	"url": "https://www.worldofbooks.com/en-gb/search?q=naruto"
+}
