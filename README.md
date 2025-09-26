@@ -75,7 +75,7 @@ Copy code
 npm start
 ```
 
-## Backend
+### Backend
 ```bash
 Setup & Run
 
@@ -104,7 +104,7 @@ npm run dev
 # Terminal 2: Backend
 cd my-app/backend
 npm run start:dev
-
+```
 ### GitHub Actions CI/CD
 - Workflow located at `.github/workflows/ci.yml`.
 - Lints, tests, and builds both frontend and backend.
