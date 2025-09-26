@@ -81,7 +81,7 @@ Setup & Run
 
 Open a new terminal and navigate to backend folder:
 
-cd my-app/backend
+cd my-app/backend/backend
 
 
 Install dependencies:
