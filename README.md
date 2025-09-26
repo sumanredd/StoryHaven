@@ -102,7 +102,7 @@ cd my-app/src
 npm run dev
 
 # Terminal 2: Backend
-cd my-app/backend
+cd my-app/backend/backend
 npm run start:dev
 ```
 ### GitHub Actions CI/CD
