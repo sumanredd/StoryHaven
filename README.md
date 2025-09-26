@@ -47,16 +47,64 @@ Copy code
 
 ## Deployment Instructions
 
-### Frontend
-1. Navigate to frontend folder: `cd src`
-2. Install dependencies: `npm install`
-3. Run locally: `npm run dev`
-4. Build for production: `npm run build`
+## Deployment Instructions
 
-### Backend
-1. Navigate to backend folder: `cd backend`
-2. Install dependencies: `npm install`
-3. Run locally: `npm run start:dev`
+### Frontend
+1. Navigate to frontend folder:  
+```bash
+cd my-app/src
+Install dependencies:
+
+```bash
+
+npm install
+Run locally (development mode):
+
+```bash
+
+npm run dev
+Opens at http://localhost:3000 by default.
+
+
+## Build for production:
+
+```bash
+
+npm run build
+Start production build:
+
+bash
+
+npm start
+
+## Backend
+Open a new terminal and navigate to backend folder:
+
+```bash
+
+cd my-app/backend
+Install dependencies:
+
+```bash
+Copy code
+npm install
+Run locally (development mode):
+
+```bash
+
+npm run start:dev
+The backend serves scraping APIs at http://localhost:3001 (check main.ts for exact port).
+
+Running Frontend + Backend Together
+bash
+
+# Terminal 1: Frontend
+cd my-app/src
+npm run dev
+
+# Terminal 2: Backend
+cd my-app/backend
+npm run start:dev
 
 ### GitHub Actions CI/CD
 - Workflow located at `.github/workflows/ci.yml`.
