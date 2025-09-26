@@ -73,8 +73,10 @@ Start production build:
 bash
 Copy code
 npm start
----
-Backend
+```
+
+## Backend
+```bash
 Setup & Run
 
 Open a new terminal and navigate to backend folder:
