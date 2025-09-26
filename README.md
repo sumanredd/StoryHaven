@@ -73,27 +73,28 @@ Start production build:
 bash
 Copy code
 npm start
+---
 Backend
+Setup & Run
+
 Open a new terminal and navigate to backend folder:
 
-bash
-Copy code
 cd my-app/backend
+
+
 Install dependencies:
 
-bash
-Copy code
 npm install
+
+
 Run locally (development mode):
 
-bash
-Copy code
 npm run start:dev
+
+
 The backend serves scraping APIs at http://localhost:3001 (check main.ts for exact port).
 
 Running Frontend + Backend Together
-bash
-Copy code
 # Terminal 1: Frontend
 cd my-app/src
 npm run dev
