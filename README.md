@@ -47,57 +47,53 @@ Copy code
 
 ## Deployment Instructions
 
-## Deployment Instructions
-
 ### Frontend
 1. Navigate to frontend folder:  
 ```bash
 cd my-app/src
 Install dependencies:
 
-```bash
-
-npm install
-Run locally (development mode):
-
-```bash
-
-npm run dev
-Opens at http://localhost:3000 by default.
-
-
-## Build for production:
-
-```bash
-
-npm run build
-Start production build:
-
 bash
-
-npm start
-
-## Backend
-Open a new terminal and navigate to backend folder:
-
-```bash
-
-cd my-app/backend
-Install dependencies:
-
-```bash
 Copy code
 npm install
 Run locally (development mode):
 
-```bash
+bash
+Copy code
+npm run dev
+Opens at http://localhost:3000 by default.
 
+Build for production:
+
+bash
+Copy code
+npm run build
+Start production build:
+
+bash
+Copy code
+npm start
+Backend
+Open a new terminal and navigate to backend folder:
+
+bash
+Copy code
+cd my-app/backend
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run locally (development mode):
+
+bash
+Copy code
 npm run start:dev
 The backend serves scraping APIs at http://localhost:3001 (check main.ts for exact port).
 
 Running Frontend + Backend Together
 bash
-
+Copy code
 # Terminal 1: Frontend
 cd my-app/src
 npm run dev
